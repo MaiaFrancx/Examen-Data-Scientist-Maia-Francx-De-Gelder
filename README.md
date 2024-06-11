@@ -22,6 +22,6 @@ In deze Notebook staan de oplossingen van de vragen.
 ## Examen deel 2
 
 Het tweede deel van het examen staat in dezelfde notebook vanaf cel [16]. <br>
-Antwoorden op de vragen in markdown staan in het {\color{blue}blauw}.
+Antwoorden op de vragen in markdown staan in het $${\color{blue}blauw}$$.
 
 
